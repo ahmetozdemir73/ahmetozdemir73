@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmetozdemir73
+- 👋 Hi, I’m Ahmet
 - 👀 I’m interested in Machine Learning, Computer Vision, Python, Raspberry Pi...
 - 🌱 I’m currently learning computer vision techniques.
 
